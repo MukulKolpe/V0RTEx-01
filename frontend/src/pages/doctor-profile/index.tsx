@@ -1,6 +1,5 @@
 "use client";
 import React, { useState, useEffect, useRef } from "react";
-import { HuddleIframe } from "@huddle01/iframe";
 import { Textarea } from "@chakra-ui/react";
 import { ethers } from "ethers";
 import { ParticleProvider } from "@particle-network/provider";
